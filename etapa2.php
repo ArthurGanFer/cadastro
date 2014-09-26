@@ -1,3 +1,11 @@
+<?php
+    $nome = $_POST["nome"];
+    $email =$_POST["email"];
+    $datanascimento = $_POST["datanascimento"];
+    $sexo = $_POST["sexo"];
+    $profissao = $_POST["profissao"];
+?>
+
 <html>
 <head>
 	<title>Desenvolvendo Websites com PHP</title> 
